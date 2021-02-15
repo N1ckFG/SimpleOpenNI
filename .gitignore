@@ -7,3 +7,5 @@ application.windows32
 application.windows64
 application.macosx
 /[Bb]uild/
+/library/NiTE2/Data/lbsdata.lbd
+
