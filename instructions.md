@@ -2,9 +2,9 @@
 
 > If you are using Kinect V1 avoid this steps and just download and paste the library in the the Processing folder
 
-<img src="Assets/threshold.gif" width="900">
+<img src="images/threshold.gif" width="900">
 
-<img src="Assets/Kinect_V2_Tracking.gif" width="900">
+<img src="images/Kinect_V2_Tracking.gif" width="900">
 
    > Example of skeleton tracking using KinectV2
 

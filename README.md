@@ -2,13 +2,13 @@
 
 ### Use Kinect 1 or 2 sensors with Processing 3
 
-<img src="Assets/threshold.gif" width="900">
+<img src="images/threshold.gif" width="900">
 
-<img src="Assets/Kinect_V2_Tracking.gif" width="900">
+<img src="images/Kinect_V2_Tracking.gif" width="900">
 
    > Example of skeleton tracking using KinectV2
 
-<img src="Assets/200w_d.gif" width="900">
+<img src="images/200w_d.gif" width="900">
 
    > Example of skeleton tracking using KinectV1
 
@@ -186,10 +186,10 @@ This project is licensed under The MIT License (MIT) - see the [LICENSE.md](http
 
 ## Images
 
-<img src="Assets/Skeleton_Tracking.png" width="600">
-<img src="Assets/depth.png" width="600">
-<img src="Assets/point.png" width="600">
-<img src="Assets/depthTwo.png" width="600">
+<img src="images/Skeleton_Tracking.png" width="600">
+<img src="images/depth.png" width="600">
+<img src="images/point.png" width="600">
+<img src="images/depthTwo.png" width="600">
 
 ## Video
 
